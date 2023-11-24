@@ -111,11 +111,11 @@
 		137F0D852AF9C7F700277A9C /* Web Time Machine Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Web Time Machine Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		137F0D8A2AF9C7F700277A9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		137F0D8B2AF9C7F700277A9C /* Web Time Machine.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Web Time Machine.entitlements"; sourceTree = "<group>"; };
-		137F0DAB2AF9C7F800277A9C /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.js; path = ../../../../webtimemachine/popup.js; sourceTree = "<group>"; };
-		137F0DAC2AF9C7F800277A9C /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = ../../../../webtimemachine/background.js; sourceTree = "<group>"; };
-		137F0DAD2AF9C7F800277A9C /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = ../../../../webtimemachine/popup.html; sourceTree = "<group>"; };
+		137F0DAB2AF9C7F800277A9C /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.js; path = popup.js; sourceTree = "<group>"; };
+		137F0DAC2AF9C7F800277A9C /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = background.js; sourceTree = "<group>"; };
+		137F0DAD2AF9C7F800277A9C /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = popup.html; sourceTree = "<group>"; };
 		137F0DAE2AF9C7F800277A9C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../../webtimemachine/README.md; sourceTree = "<group>"; };
-		137F0DAF2AF9C7F800277A9C /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = ../../../../webtimemachine/manifest.json; sourceTree = "<group>"; };
+		137F0DAF2AF9C7F800277A9C /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = manifest.json; sourceTree = "<group>"; };
 		13E24CFE2AFA0C2B00D981A3 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		13E24D012AFAC00700D981A3 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
